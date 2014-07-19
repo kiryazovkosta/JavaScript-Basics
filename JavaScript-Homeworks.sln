@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.JS-Development-Intro-Hom
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.JS-Syntax-Homework", "02.JS-Syntax-Homework\02.JS-Syntax-Homework.csproj", "{D8A6CB90-9905-4A82-841D-7B47561BBE91}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.JS-Loops-Arrays-Strings-Homework", "03.JS-Loops-Arrays-Strings-Homework\03.JS-Loops-Arrays-Strings-Homework.csproj", "{2EE17286-C83D-4DF3-B8D2-D7C94C673214}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{D8A6CB90-9905-4A82-841D-7B47561BBE91}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D8A6CB90-9905-4A82-841D-7B47561BBE91}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D8A6CB90-9905-4A82-841D-7B47561BBE91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EE17286-C83D-4DF3-B8D2-D7C94C673214}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EE17286-C83D-4DF3-B8D2-D7C94C673214}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EE17286-C83D-4DF3-B8D2-D7C94C673214}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EE17286-C83D-4DF3-B8D2-D7C94C673214}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
