@@ -4,5 +4,25 @@
 // sample input data below and prints the output at the console. 
 
 function findNthDigit(arr) {
+    var position = arr[0];
+    var number = arr[1].toString().replace(".", "");
 
+    var val = undefined;
+    for (var i = number.length - 1, downer = position; i >= 0; i--, downer--) {
+        if (downer === 1) {
+            val = number.charAt(i);
+        }
+    }
+
+    if (val === undefined) {
+        val = 'The number doesn\'t have ' + position + ' digits';
+    }
+
+    return val;
 }
+
+console.log(findNthDigit([1, 6]));
+console.log(findNthDigit([2, -55]));
+console.log(findNthDigit([6, 923456]));
+console.log(findNthDigit([3, 1451.78]));
+console.log(findNthDigit([6, 888.88]));
