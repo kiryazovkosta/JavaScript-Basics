@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.JS-Loops-Arrays-Strings-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.JS-Functions-Objects-Homework", "04.JS-Functions-Objects-Homework\04.JS-Functions-Objects-Homework.csproj", "{BAC1C1EF-5C76-47BD-883E-9C3B43C86183}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.JS-DOM-Events", "05.JS-DOM-Events\05.JS-DOM-Events.csproj", "{B319F686-F7B1-46C7-99EA-647E54DC3011}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{BAC1C1EF-5C76-47BD-883E-9C3B43C86183}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BAC1C1EF-5C76-47BD-883E-9C3B43C86183}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BAC1C1EF-5C76-47BD-883E-9C3B43C86183}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B319F686-F7B1-46C7-99EA-647E54DC3011}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B319F686-F7B1-46C7-99EA-647E54DC3011}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B319F686-F7B1-46C7-99EA-647E54DC3011}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B319F686-F7B1-46C7-99EA-647E54DC3011}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
